@@ -28,10 +28,14 @@ Download zip file from Github repository, extract it and than project is under y
 
 ## Copyright
 
-[Bedimcode](https://github.com/bedimcode/responsive-shoe-website)
-[Bedimcode Youtube](https://youtu.be/tBE0L_Jzi-Y)
+- [Bedimcode](https://github.com/bedimcode/responsive-shoe-website)
+- [Bedimcode Youtube](https://youtu.be/tBE0L_Jzi-Y)
 
-Attention: This project modified with best practices, well organized file and folder structures and html seo friendly techniques.
+Attention: This project modified for to follow:
+
+- Best practices
+- Well organized file and folder structures  
+- HTML seo-friendly techniques
 
 ## License
 
