@@ -26,6 +26,13 @@ Download zip file from Github repository, extract it and than project is under y
 
 ![preview img](/assets/imgs/preview.png)
 
+## Copyright
+
+[Bedimcode](https://github.com/bedimcode)
+[Bedimcode Youtube](https://youtu.be/tBE0L_Jzi-Y)
+
+Attention: This project modified with best practices, well organized file and folder structures and html seo friendly techniques.
+
 ## License
 
 MIT
